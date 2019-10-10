@@ -2,7 +2,534 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="330e0b7e-a473-4d28-9957-62d3cbb0fe3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/public/resource/node_cache/anonymous-cli-metrics.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/resource/node_cache/anonymous-cli-metrics.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Animation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/DataGrid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Dropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Extras.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Pages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/Tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/UIElements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/avatar/128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/avatar/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/avatar/profile-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/bg/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/bg/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/bg/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/bg/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/bg/login-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/blogs/blog_item1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/gallery/blog_item1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/icons/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/arch-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/arch-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/autumn-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/boats-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/book-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/business-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/calendar-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/car-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/christmas-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/christmas-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/christmas-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/city-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/city-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/coffee-grass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/coins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/crayons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/cupcakes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/eggs-nest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/flower-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/flower-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/flower-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/fountain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/leaves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/lichterman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/pinecone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/river-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/river-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/sunset-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/winter-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/winter-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/winter-sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/images/thumbs/woodstump.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/bootstrap-hover-dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-chartjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-flotchart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-highchart-area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-highchart-column-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-highchart-combinations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-highchart-dynamic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-highchart-line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-highchart-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-highchart-pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/charts-highchart-scatter-bubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/exporting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/funnel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/highchart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/highcharts-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/holder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/icheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jplist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jplist.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery-migrate-1.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.flot.categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.flot.fillbetween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.flot.spline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.flot.stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.flot.tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.nestable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.news-ticker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/jquery.slimscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/modernizr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/pace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/responsive-tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/ui-nestable-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/script/zabuto_calendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/flat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/flat@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/flat/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/futurico/futurico.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/futurico/futurico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/futurico/futurico@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/introjs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/jplist-custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/jquery-ui-1.10.4.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/jquery.news-ticker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/line.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/line@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/line/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/minimal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/minimal@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/minimal/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/nestable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/pace.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/polaris/polaris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/polaris/polaris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/polaris/polaris@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/square.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/square@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/square/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/style-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Dark/styles/zabuto_calendar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Animation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/DataGrid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Dropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Email.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Extras.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Pages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/Tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/UIElements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/avatar/128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/avatar/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/avatar/profile-pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/bg/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/bg/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/bg/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/bg/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/bg/login-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/blogs/blog_item1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/gallery/blog_item1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/icons/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/arch-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/arch-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/autumn-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/boats-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/book-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/business-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/calendar-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/car-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/christmas-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/christmas-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/christmas-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/city-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/city-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/coffee-grass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/coins.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/crayons.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/cupcakes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/eggs-nest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/flower-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/flower-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/flower-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/fountain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/leaves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/lichterman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/pinecone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/river-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/river-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/sunset-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/winter-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/winter-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/winter-sun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/images/thumbs/woodstump.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/bootstrap-hover-dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-chartjs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-flotchart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-highchart-area.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-highchart-column-bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-highchart-combinations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-highchart-dynamic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-highchart-line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-highchart-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-highchart-pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/charts-highchart-scatter-bubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/drilldown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/exporting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/funnel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/highchart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/highcharts-more.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/highcharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/holder.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/icheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jplist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jplist.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery-1.10.2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery-migrate-1.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.cookie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.flot.categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.flot.fillbetween.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.flot.spline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.flot.stack.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.flot.tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.metisMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.nestable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.news-ticker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/jquery.slimscroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/modernizr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/pace.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/responsive-tabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/ui-nestable-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/script/zabuto_calendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/flat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/flat@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/flat/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/futurico/futurico.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/futurico/futurico.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/futurico/futurico@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/introjs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/jplist-custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/jquery-ui-1.10.4.custom.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/jquery.news-ticker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/line.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/line.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/line@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/line/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/minimal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/minimal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/minimal@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/minimal/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/nestable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/pace.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/polaris/polaris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/polaris/polaris.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/polaris/polaris@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/aero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/aero.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/aero@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/all.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/blue.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/blue@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/green.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/green@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/grey.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/grey.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/grey@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/orange.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/orange@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/pink.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/pink@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/purple.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/purple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/purple@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/red@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/square.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/square@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/yellow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/square/yellow@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/style-responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/KAdmin-Light/styles/zabuto_calendar.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,11 +537,37 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" doNotAsk="true">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="59" column="73" lean-forward="true" selection-start-line="59" selection-start-column="73" selection-end-line="59" selection-end-column="73" />
+              <folding>
+                <element signature="e#2703#2728#0#HTML" expanded="true" />
+                <element signature="e#34372#34399#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>styles/</find>
+      <find>script/</find>
+      <find>wel</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{{asset('KAdmin-Dark/')}}styles</replace>
+      <replace>{{asset('KAdmin-Dark/')}}styles/</replace>
+      <replace>{{asset('KAdmin-Dark/')}}script/</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +576,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
       </list>
     </option>
   </component>
@@ -126,7 +680,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,52 +687,23 @@
               <item name="admin" type="b2602c69:ProjectViewProjectNode" />
               <item name="admin" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="node_global" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="node_global" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="resource" type="462c0819:PsiDirectoryNode" />
-              <item name="node_global" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="bootstrap-table" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\phpstudy_pro\WWW\admin\public" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -204,16 +728,18 @@
       <option name="presentableId" value="Default" />
       <updated>1570544362465</updated>
       <workItem from="1570544363572" duration="1998000" />
+      <workItem from="1570717015433" duration="2696000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2033000" />
+    <option name="totallyTimeSpent" value="4729000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1548" height="832" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25973153" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26308724" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -276,6 +802,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/.htaccess">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/模板/sbtp_42_ob/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/KAdmin-Dark/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="24" selection-end-line="744" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="59" column="73" lean-forward="true" selection-start-line="59" selection-start-column="73" selection-end-line="59" selection-end-column="73" />
+          <folding>
+            <element signature="e#2703#2728#0#HTML" expanded="true" />
+            <element signature="e#34372#34399#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
